@@ -2,9 +2,9 @@
   <img src="https://fontmeme.com/permalink/200727/83233fa8f04e2f21422bfb68c1ed3847.png"> </br>
 </p>
 
-<h1 align="center">
+<h2 align="center">
  💙 Veja quais são as minhas músicas, séries e filmes favoritos! 💙
-</h1>
+</h2>
 
 <h3 align="center"> • React.js • Styled-components • </h3>
 <p align="center">Deployed <a href="https://myflix-tau.vercel.app/">aqui</a>.</p>
