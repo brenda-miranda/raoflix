@@ -5,8 +5,10 @@ import { Container, Nav } from './styles';
 function Menu() {
    return (
       <Container>
-         <Nav>           
-            <img src={Logo} alt="logo" />
+         <Nav>
+            <a href="/">       
+               <img src={Logo} alt="logo" />
+            </a> 
          </Nav>
       </Container>
    )
