@@ -1,9 +1,10 @@
 import React from 'react';
+import Logo from '../../assets/Logo.png';
 
 function Menu() {
    return (
       <nav>
-         Myflix
+         <img src={Logo} alt="logo" />
       </nav>
    )
 }
