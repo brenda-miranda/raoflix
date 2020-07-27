@@ -1,23 +1,23 @@
-import React from 'react';
-import PropTypes from 'prop-types';
+import styled from "styled-components";
 
-function Button({ className, href, children }) {
-  return (
-    <a className={className} href={href}>
-      {children}
-    </a>
-  );
-}
+const Button = styled.button`
+  color: var(--white);
+  border: 1px solid var(--white);
+  box-sizing: border-box;
+  cursor: pointer;
+  padding: 16px 24px;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 16px;
+  outline: none;
+  border-radius: 5px;
+  text-decoration: none;
+  display: inline-block;
+  transition: opacity .3s;
+  &:hover,
+  &:focus {
+    opacity: .5;
+  }
+`;
 
-Button.defaultProps = {
-  href: '/',
-  className: '',
-};
-
-Button.propTypes = {
-  className: PropTypes.string,
-  href: PropTypes.string,
-  children: PropTypes.node.isRequired,
-};
-
-export default Button;
+export default Button
