@@ -1,6 +1,6 @@
 import React from 'react';
 import Logo from '../../assets/Logo.png';
-import { Container, Nav } from './styles';
+import { Container, Nav, ButtonLink } from './styles';
 
 function Menu() {
    return (
@@ -10,6 +10,12 @@ function Menu() {
                <img src={Logo} alt="logo" />
             </a> 
          </Nav>
+
+         <ButtonLink>
+            <a href="/">
+               Novo vídeo
+            </a>
+         </ButtonLink>
       </Container>
    )
 }
