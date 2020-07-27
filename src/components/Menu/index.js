@@ -2,9 +2,9 @@ import React from 'react';
 
 function Menu() {
    return (
-      <header>
+      <nav>
          Myflix
-      </header>
+      </nav>
    )
 }
 
