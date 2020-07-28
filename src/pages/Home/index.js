@@ -7,13 +7,13 @@ import Footer from '../../components/Footer';
 
 function Home() {
   return (
-    <div style={{ background: "#141414" }}>
+    <div style={{ background: "#0a0a0a" }}>
       <Menu />
 
       <BannerMain
         videoTitle={dadosIniciais.categorias[0].videos[0].titulo}
         url={dadosIniciais.categorias[0].videos[0].url}
-        videoDescription={"O que é Front-end? Trabalhando na área os termos HTML, CSS e JavaScript fazem parte da rotina das desenvolvedoras e desenvolvedores. Mas o que eles fazem, afinal? Descubra com a Vanessa!"}
+        videoDescription={"Onde estão todos os Alienígenas? Descubra nesse especial de uma hora do Nostalgia Ciências com narração de Guilherme Briggs e as participações de Leandro Karnal, Dr Pirula e Gustavo Rojas."}
       />
 
       <Carousel
