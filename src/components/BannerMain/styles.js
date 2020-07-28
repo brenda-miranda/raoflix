@@ -96,7 +96,7 @@ export const BannerMainContainer = styled.section`
 
   &:after {
     bottom: 0;
-    background: linear-gradient(0deg, #141414 0%, transparent 100%);
+    background: linear-gradient(0deg, #0a0a0a 0%, transparent 100%);
   }
 `;
 
