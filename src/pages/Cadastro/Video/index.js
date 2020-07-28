@@ -1,10 +1,15 @@
 import React from 'react';
+import { Link } from 'react-router-dom';
 import Layout from '../../../components/Layout';
 
 function CadastroVideo() {
    return (
       <Layout>
-         Página de Cadastro de Vídeo
+         <h1>Cadastro de Vídeo</h1>
+
+         <Link to="/cadastro/categoria">
+            Cadastrar categoria
+         </Link>
       </Layout>
    )
 }
