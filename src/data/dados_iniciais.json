@@ -1,163 +1,240 @@
 {
   "categorias": [
     {
-      "titulo": "Últimos assistidos no Youtube",
-      "link": "https://www.alura.com.br/formacao-front-end",
-      "cor": "#c4302b",
+      "titulo": "Season 1",
+      "link_extra": {
+        "text": "É treta que você quer @? Assista a primeira temporada já!",
+        "url": "https://www.youtube.com/playlist?list=PLLzL0mq1mPyUWMaBHAnVOYHX1xral66c-"
+      },
       "videos": [
         {
-          "titulo": "ONDE ESTÃO TODOS ALIENÍGENAS? Especial Nostalgia Ciência",
-          "url": "https://www.youtube.com/watch?v=YJsPmC8e7A4"
+          "titulo": "Conheça Girls in the House! A série mais babadeira do Youtube!",
+          "url": "https://youtu.be/-JD8MtxD-w0"
         },
         {
-          "titulo": "Onde estão todos os alienígenas?",
-          "url": "https://www.youtube.com/watch?v=YJsPmC8e7A4"
+          "titulo": "EP 1.01 - Date Night",
+          "url": "https://youtu.be/DueqHtupyNI"
         },
         {
-          "titulo": "Componentização com VanillaJS #AluraMais",
-          "url": "https://www.youtube.com/watch?v=LatCKpcOMak"
+          "titulo": "EP 1.02 - Strange Events",
+          "url": "https://youtu.be/uS9WLtSJPrY"
         },
         {
-          "titulo": "Pare de chutar e aprenda a display: inline #01",
-          "url": "https://www.youtube.com/watch?v=5PS6ku8NzIE"
+          "titulo": "EP 1.03 - Young Generation",
+          "url": "https://youtu.be/qqKw4AlITco"
         },
         {
-          "titulo": "Template String: Interpolando strings com JavaScript #AluraMais",
-          "url": "https://www.youtube.com/watch?v=ORI_HTXaIw0"
+          "titulo": "EP 1.04 - Back Off, Couple Stuff",
+          "url": "https://youtu.be/NOqfWM_xxDI"
         },
         {
-          "titulo": "Qual é a melhor linguagem de programação? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=Uh-GNH-t89w"
+          "titulo": "EP 1.05 - Girls In The Haunted House",
+          "url": "https://youtu.be/G_HyVvJDARM"
         },
         {
-          "titulo": "Novidades do Angular v9",
-          "url": "https://www.youtube.com/watch?v=34uHo7hFmG0"
+          "titulo": "EP 1.06 - Santa Doesn't Give a F",
+          "url": "https://youtu.be/AWkJ48JPpns"
         },
         {
-          "titulo": "Base para aprender os frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
-        }        
-      ]
-    },
-    {
-      "titulo": "Back End",
-      "cor": "#00C86F",
-      "videos": [
-        {
-          "titulo": "PERCURSO em NÍVEL em ÁRVORE BINÁRIA | Estruturas de Dados #14",
-          "url": "https://www.youtube.com/watch?v=UOK7nS2E9xM"
+          "titulo": "EP 1.07 - Revenge Play",
+          "url": "https://youtu.be/KRk_oyUYVYw"
         },
         {
-          "titulo": "Coders4Tips - S01E04: GitHub CLI - Uma Nova Experiência no Github!",
-          "url": "https://www.youtube.com/watch?v=6o6-bKOZOEY"
+          "titulo": "EP 1.08 - Welcome Back, and Baby",
+          "url": "https://youtu.be/jyKEupYeEtQ"
         },
         {
-          "titulo": "Programei 4 robôs que criam vídeos para mim no YouTube",
-          "url": "https://www.youtube.com/watch?v=kjhu1LEmRpY"
-        },
-        {
-          "titulo": "API: Dicionário do Programador",
-          "url": "https://www.youtube.com/watch?v=vGuqKIRWosk"
-        }, 
-        {
-          "titulo": "Usando Git Direito",
-          "url": "https://www.youtube.com/watch?v=6OokP-NE49k"
+          "titulo": "EP 1.09 - OMG",
+          "url": "https://youtu.be/pM1cqnJw6TU"
         }
       ]
     },
     {
-      "titulo": "Data Science e Inteligência Artificial",
-      "cor": "#9cd33b",
+      "titulo": "Season 2",
+      "link_extra": {
+        "text": "As meninas da pensão estão de volta para a season 2, mas dessa vez com muito mais confusão... ",
+        "url": "https://www.youtube.com/playlist?list=PLLzL0mq1mPyWnFO886k6HeHBfz-6GsODw"
+      },
       "videos": [
         {
-          "titulo": "Teste de Turing",
-          "url": "https://www.youtube.com/watch?v=BaPGU4JWa34"
+          "titulo": "EP 2.01 - April Fools",
+          "url": "https://youtu.be/pF8ZbP81HAA"
         },
         {
-          "titulo": "O que é Data Science?",
-          "url": "https://www.youtube.com/watch?v=5b9Z8toVaAU&t=9s"
+          "titulo": "EP 2.02 - Holy Thievery",
+          "url": "https://youtu.be/2z3WEqKehqQ"
         },
         {
-          "titulo": "Melhor forma de aprender Python",
-          "url": "https://www.youtube.com/watch?v=Gojqw9BQ5qY"
+          "titulo": "EP 2.03 - Alex Goes Out",
+          "url": "https://youtu.be/eQypFT0mShY"
         },
         {
-          "titulo": "Como ingressar no mercado de Data Science?",
-          "url": "https://www.youtube.com/watch?v=gxyjGmOV540"
+          "titulo": "EP 2.04 - Tale of a Handsome Neighbor",
+          "url": "https://youtu.be/SsdAqAJ5ugE"
+        },
+        {
+          "titulo": "EP 2.05 - New Girl",
+          "url": "https://youtu.be/sl9dypLJxLM"
+        },
+        {
+          "titulo": "EP 2.06 - Duny As A Kid",
+          "url": "https://youtu.be/KQFBoqO8oNo"
+        },
+        {
+          "titulo": "EP 2.07 - Devil's Due",
+          "url": "https://youtu.be/cSnGvFE1MU8"
+        },
+        {
+          "titulo": "EP 2.08 - Trees, Trees and More Trees",
+          "url": "https://youtu.be/iHzjL2lCIhU"
+        },
+        {
+          "titulo": "EP 2.09 - Sexy Trap",
+          "url": "https://youtu.be/RLx9h5jRb6E"
+        },
+        {
+          "titulo": "EP 2.10 - Goodbye",
+          "url": "https://youtu.be/Y-t-G6UXUxY"
         }
       ]
     },
     {
-      "titulo": "Filmes",
-      "cor": "orange",
+      "titulo": "Season 3",
+      "link_extra": {
+        "text": "Season 3 JÁ? Mais rápido que La Casa de Papel! o.O ",
+        "url": "https://www.youtube.com/playlist?list=PLLzL0mq1mPyUlGvqpJTIf6fZfhQZU8DEZ"
+      },
       "videos": [
         {
-          "titulo": "Interestellar",
-          "url": "https://www.youtube.com/watch?v=frD_IiY_A3E"
+          "titulo": "EP 3.01 - Bikini Contest",
+          "url": "https://youtu.be/iXfDZsjy6pc"
         },
         {
-          "titulo": "Gattaca",
-          "url": "https://www.youtube.com/watch?v=Dl0tYLbrhhs"
+          "titulo": "EP 3.02 - Hot Dogs (Part 1)",
+          "url": "https://youtu.be/pTa_LjcSUHY"
         },
         {
-          "titulo": "A Chegada",
-          "url": "https://www.youtube.com/watch?v=rNciXGzYZms"
+          "titulo": "EP 3.02 - Date Night 2 (Part 2)",
+          "url": "https://youtu.be/kNKPoIL_2tE"
         },
         {
-          "titulo": "Feitiço do Tempo",
-          "url": "https://www.youtube.com/watch?v=zi8d69P9NvI"
+          "titulo": "EP 3.03 - One Flew Over Ruiva's Nest",
+          "url": "https://youtu.be/36fHt4mZdEA"
+        },
+        {
+          "titulo": "EP 3.04 - One That Got Away",
+          "url": "https://youtu.be/smAKds5hxBs"
+        },
+        {
+          "titulo": "EP 3.05 - Kendra's Birthday",
+          "url": "https://youtu.be/LgRwjCVE_yk"
+        },
+        {
+          "titulo": "EP 3.06 - Cash Me Ousside",
+          "url": "https://youtu.be/ty2gx8YV8wc"
+        },
+        {
+          "titulo": "EP 3.07 - Ends with a Cliffhanger",
+          "url": "https://youtu.be/QAi8DAH3JN4"
+        },
+        {
+          "titulo": "EP 3.08 - Girls In No House (Final de Temporada)",
+          "url": "https://youtu.be/FHUUefVNd2c"
         }
       ]
     },
     {
-      "titulo": "Games",
-      "cor": "red",
+      "titulo": "Season 4",
+      "link_extra": {
+        "text": "1 ano após a explosão, Duny e Honey  tentam se adaptar a nova vida com novos empregos e novos concorrentes.",
+        "url": "https://www.youtube.com/playlist?list=PLLzL0mq1mPyVDp1t9yAO0XIM8WkX5ZqaG"
+      },
       "videos": [
         {
-          "titulo": "Final Fantasy 7",
-          "url": "https://www.youtube.com/watch?v=I_ATSCTnUD8"
+          "titulo": "EP 4.01 - CIVIL WAR",
+          "url": "https://youtu.be/4nq095M0TX0"
         },
         {
-          "titulo": "Assassins Creed Valhalla",
-          "url": "https://www.youtube.com/watch?v=KDfdjB9uL0U"
+          "titulo": "EP 4.02 - Beware The Chupacu",
+          "url": "https://youtu.be/WXWshhqNCoE"
         },
         {
-          "titulo": "God of War 4",
-          "url": "https://www.youtube.com/watch?v=FyIwEFXOcaE"
+          "titulo": "EP 4.03 - Duny's Got a Boyfriend",
+          "url": "https://youtu.be/QEZESYIVhHs"
         },
         {
-          "titulo": "Resident Evil 8",
-          "url": "https://www.youtube.com/watch?v=JSapXD9vxYA"
+          "titulo": "EP 4.04 - Orégano",
+          "url": "https://youtu.be/0DJ2GaL3ljY"
         },
         {
-          "titulo": "Pokémon Let's Go Pikachu/Eevee",
-          "url": "https://www.youtube.com/watch?v=L56q_k2ydrs"
+          "titulo": "EP 4.05 - Invasion of Privacy",
+          "url": "https://youtu.be/JC7liHCf_ak"
+        },
+        {
+          "titulo": "EP 4.06 - Guess Who's Missing",
+          "url": "https://youtu.be/T4jL3vbGZYY"
+        },
+        {
+          "titulo": "EP 4.07 - Christmas As It Is (Especial de Natal)",
+          "url": "https://youtu.be/0rOc7izaans"
+        },
+        {
+          "titulo": "EP 4.08 - Total Chaos Confirmed",
+          "url": "https://youtu.be/RiuYa6AQeuQ"
+        },
+        {
+          "titulo": "EP 4.09 - El Sequestro",
+          "url": "https://youtu.be/1IZO_37V-qg"
+        },
+        {
+          "titulo": "EP 4.10 - Open The Door",
+          "url": "https://youtu.be/hmiRNUzAlJA"
         }
       ]
     },
     {
-      "titulo": "Aprendendo a aprender tecnologia",
-      "cor": "#6b5be2",
+      "titulo": "Season 5",
+      "link_extra": {
+        "text": "Cadê o resto, RAO?",
+        "url": "https://www.youtube.com/playlist?list=PLLzL0mq1mPyVQb2w-5l3WkyoydAHlpAsz"
+      },
       "videos": [
         {
-          "titulo": "Como estudar melhor?",
-          "url": "https://www.youtube.com/watch?v=Is6c9KSGCbk&feature=youtu.be"
+          "titulo": "EP 5.01 - Breath of so-called Fresh Air",
+          "url": "https://youtu.be/WvHOdv9knNU"
+        }
+      ]
+    },
+    {
+      "titulo": "Extras",
+      "link_extra": {
+        "text": "Aqui você encontra os melhores extras de GITH!",
+        "url": "https://www.youtube.com/user/raonyphillips"
+      },
+      "videos": [
+        {
+          "titulo": "Girls In The House - Vira Essa Cara Agora",
+          "url": "https://youtu.be/aG-ON_K41YU"
         },
         {
-          "titulo": "Faculdade",
-          "url": "https://www.youtube.com/watch?v=jw06H8esyzQ&feature=youtu.be"
+          "titulo": "Girls In The House - Desgraçada da Escuridão",
+          "url": "https://youtu.be/Y-Kt-_5FE3Y"
         },
         {
-          "titulo": "Frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+          "titulo": "Girls In The House - Girls In The Haunted House 2",
+          "url": "https://youtu.be/mRw9OioeK64"
         },
         {
-          "titulo": "A mágica do Aprendizado",
-          "url": "https://www.youtube.com/watch?v=oTEXzpfEpPY"
+          "titulo": "Pronunciamento da Duny",
+          "url": "https://youtu.be/klbanQxqpWQ"
         },
         {
-          "titulo": "Como aprender a programar?",
-          "url": "https://www.youtube.com/watch?v=MwCx2qKdbDw&feature=youtu.be"
+          "titulo": "Girls In The House - Festa Privada",
+          "url": "https://youtu.be/ckgzfvoT1ts"
+        },
+        {
+          "titulo": "DUNY X THANOS",
+          "url": "https://youtu.be/11mQna0RVRU"
         }
       ]
     }
