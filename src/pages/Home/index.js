@@ -13,7 +13,7 @@ function Home() {
       <BannerMain
         videoTitle={dadosIniciais.categorias[0].videos[0].titulo}
         url={dadosIniciais.categorias[0].videos[0].url}
-        videoDescription={"Onde estão todos os Alienígenas? Descubra nesse especial de uma hora do Nostalgia Ciências com narração de Guilherme Briggs e as participações de Leandro Karnal, Dr Pirula e Gustavo Rojas."}
+        videoDescription={"A série 'Girls In The House' traz Honey, Duny e Alex, três mulheres que administram uma pensão onde as maiores confusões acontecem. Se prepare para morrer de rir com elas!"}
       />
 
       <Carousel
